@@ -1,0 +1,1 @@
+In this project, I attempt to understand the features that are closely and losely related to a credit default. The final goal is to build a machine learning model that predicts the likelyhood an individual will default on their credit.
